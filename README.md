@@ -1,6 +1,7 @@
 ### Ola!, meu nome é Alexandre Batista
 
-- 🌱 Estou estudando Spring Boot e ecossistema Spring
+- 🌱 Estou estudando Spring Boot e seu ecossistema Spring;
+- 🌱 Node com express
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre5104&show_icons=true&theme=transparent)
 <div style="display: inline_block"><br>
